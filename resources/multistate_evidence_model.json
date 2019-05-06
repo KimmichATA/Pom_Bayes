@@ -1,0 +1,32 @@
+{
+  "bayesian_network": {
+    "node_map": {
+      "resource:f3b8606d-0af5-46cd-bad3-699536a0b969": {
+        "id": "resource:f3b8606d-0af5-46cd-bad3-699536a0b969",
+        "cpt": {
+          "table": {
+            "MODEL_ID": [
+              0.33,
+              0.33,
+              0.33
+            ]
+          }
+        },
+        "parentOrderList": []
+      }
+    }
+  }
+}
+
+
+P(RPD =="A")               =0.333
+P(RPD =="A")|(RPD=="A")=1.0
+P(RPD =="A")|(RPD=="B")=...
+P(RPD =="A")|(RPD=="C")=...
+P(RPD =="B")|(RPD=="A")=...
+P(RPD =="B")|(RPD=="B")=...
+P(RPD =="B")|(RPD=="C")=...
+P(RPD =="C")|(RPD=="A")=...
+P(RPD =="C")|(RPD=="B")=...
+P(RPD =="C")|(RPD=="C")=...
+

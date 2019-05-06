@@ -1,0 +1,18 @@
+{
+  "bayesian_network": {
+    "node_map": {
+      "resource:f3b8606d-0af5-46cd-bad3-699536a0b969": {
+        "id": "resource:f3b8606d-0af5-46cd-bad3-699536a0b969",
+        "cpt": {
+          "table": {
+            "": [
+              0.55,
+              0.45
+            ]
+          }
+        },
+        "parentOrderList": []
+      }
+    }
+  }
+}

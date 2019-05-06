@@ -1,0 +1,30 @@
+{
+  "modelEvidenceMap": {
+    "MODEL_ID": {
+      "nodeEvidenceMap": {
+        "resource:f3b8606d-0af5-46cd-bad3-699536a0b969": {
+          "nodeId": "resource:f3b8606d-0af5-46cd-bad3-699536a0b969",
+          "evidenceList": [
+            {
+              "nodeId": "resource:f3b8606d-0af5-46cd-bad3-699536a0b969",
+              "stateLikelihoods": [
+                {
+                  "state": "A",
+                  "likelihood": 0.1
+                },
+                {
+                  "state": "B",
+                  "likelihood": 0.3
+                },
+                {
+                  "state": "C",
+                  "likelihood": 0.6
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
